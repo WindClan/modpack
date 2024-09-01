@@ -1,0 +1,231 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ad-astra.pw.toml"
+hash = "034718706cd7bc9baca522753dc62e779d5025ecf7a6a9b9c1d0a2b18b73d967"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "30f6a07aacfc0b9a5038a3e5261f231e81af3b6388cf473c87f978f4e2fb9347"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "67d1dac247ae7af173e15fa747cdb301c5fd9fdaa395840d683cd03b5913956b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
+metafile = true
+
+[[files]]
+file = "mods/azurelib.pw.toml"
+hash = "77e7285a96a1927ea7db69b80283ed3a24c1ee145ad92360e1bc0d6b632005f9"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "93bc1b8f65cc5004083d13b2e4ef890b551d16b2e00a1790473cf866e751141a"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "ca0666e9d4db7870a4087815a7557386249cad7833e5477df045e3a1423ff4ac"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "66c9b03555c01d799eff36972902ed04f0e8c6a53b5b8c08fe20cb67dce02def"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
+metafile = true
+
+[[files]]
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "2553c294bd09039157a462dbf2559bd791671bddb6e7b40fd39ae9148e4791d2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "47658692cb711fabfd8979f13d3be74ef39056cf3e9a5407d05bc0d4e51075d9"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "5c5889f3686e3ff35ab215dc7f9f3e5e7585a0d24befe5989e0bdca47a04dac5"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "d7f5c29f51b6e866f2227936ca124123ef5794813b791faf04d9fa66723bf2ff"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "4e186b045f50afe1e19198bbd79b6e32219312a7565fd48f077d3c08ffe20996"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
+metafile = true
+
+[[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
+file = "mods/immersive-snow.pw.toml"
+hash = "adc0ccaeb349ce8cbea71dbc33918e4bd9d77c5a7631defca225bc44935a0a63"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "7121db2ef3656272d19fd9210e2d1fc31072ac4fdbc3d98f717807c92460ba77"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7effe74f556c093a4d7e36e8d1f0ae6ef115cfeab54a1d870107ff69e8ddd678"
+metafile = true
+
+[[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
+file = "mods/origin-furs.pw.toml"
+hash = "b206404eac25ffb0066eeb3592c2a51ef989147064b8063d41a5c82da6c5238a"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "8df6f4418a1baf4bbf362668d8302683976ff126223b9fdf7f952490aebd072c"
+metafile = true
+
+[[files]]
+file = "mods/rain-should-extinguish-campfires.pw.toml"
+hash = "79e849eca89d2022f178b36648e7876eea61d3eb49bf6fda53f8c505e70fa5bf"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "01451ed01eff741fc62ddcc19204c2c478ea9f2b80085092bd03eee700a0dcab"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
+
+[[files]]
+file = "mods/rest-api.pw.toml"
+hash = "fb9f200b268cc3316d002c9ce77b56cbc6117d78776a774a0e6557053c861e6c"
+metafile = true
+
+[[files]]
+file = "mods/seasonhud-fabric.pw.toml"
+hash = "00cf4972c118db975733bceb2ad09e5921840337005b5f708bf5d27451b6bffa"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "c17e0b385b7f51ca83b847f43d0f98809a8ade38ea98a5dbd68d69b9c420436c"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "97acb27ee8b31a8877f74d9376a5e2d6c81b54a3359c85e9d3cb545050b98481"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "6f4ce82de5399daf1dd136b34550cbd0b1bee4f68c4118233472af41c7e6d45e"
+metafile = true

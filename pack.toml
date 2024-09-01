@@ -1,0 +1,13 @@
+name = "Originsserver"
+author = "Origins Server Pack (placeholder name)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c602a57f155001007149e92e8bb444c9bb7fe4ca3de36a49cb43a654322f5cf"
+
+[versions]
+fabric = "0.16.3"
+minecraft = "1.20.1"
