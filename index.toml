@@ -16,6 +16,11 @@ hash = "64d78922bc5e9e825411bada42be1ee6816da1f6e419d6034089b3d3b85da2fb"
 metafile = true
 
 [[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "525c8448074c4402b411c2b904eff4dae542834c649d13dc00475bd2546fe286"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
@@ -141,6 +146,11 @@ hash = "6a9263880513559e496de38c064750df93eb5a9c03f60c2bdc8dcca5d680e1c8"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "84850f37323c0eac678eb5852dc2a43921e620ac9d0dd5293f8db7e670ed8ecf"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
@@ -198,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/gotta-go-fast-fabric.pw.toml"
 hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-home.pw.toml"
+hash = "0ed872563946a194f1c1c64c19f13820c9670ae1874e72809892c664a93075f5"
 metafile = true
 
 [[files]]
@@ -338,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/seasonhud-fabric.pw.toml"
 hash = "00cf4972c118db975733bceb2ad09e5921840337005b5f708bf5d27451b6bffa"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "23fde08c692adf1ef03b28acb2f398db7630df24f43969d60f2c9fd1c3cb6c3c"
 metafile = true
 
 [[files]]
