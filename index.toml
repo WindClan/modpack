@@ -66,6 +66,11 @@ hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "93bc1b8f65cc5004083d13b2e4ef890b551d16b2e00a1790473cf866e751141a"
 metafile = true
@@ -88,6 +93,16 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "ca0666e9d4db7870a4087815a7557386249cad7833e5477df045e3a1423ff4ac"
+metafile = true
+
+[[files]]
+file = "mods/companion.pw.toml"
+hash = "e162a611a69c4181bb876a8bd60597a070a520d86942991346a1cbd16213279f"
+metafile = true
+
+[[files]]
+file = "mods/cooldown-coordinator.pw.toml"
+hash = "6737a0662cc09ac740603c2ea1d114482c0d96bc049e7106884b7dd6125de3e0"
 metafile = true
 
 [[files]]
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "f0dd64f71e05aac244d90ef4ea631f5312145f17c567b30f447d9e9b6847368e"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-workbenches.pw.toml"
+hash = "6a9263880513559e496de38c064750df93eb5a9c03f60c2bdc8dcca5d680e1c8"
 metafile = true
 
 [[files]]
@@ -181,6 +201,11 @@ hash = "6beecae4007fc03a0fc56f4c9338492852351422ecb50aa41e9c04b6c5e259d1"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "e6a6e00decbfb4fd1176a2cfff45476d18b13f37d5097b88361da6af8dedc9f2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-snow.pw.toml"
 hash = "adc0ccaeb349ce8cbea71dbc33918e4bd9d77c5a7631defca225bc44935a0a63"
 metafile = true
@@ -188,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "0f31ab5d2bb9e8d06f0cb635bf3089737459a1d04501ff3f9c4ff2b01ec32d91"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "fdd070ab3caa825f8cdcbc39ac210c6e824fa0ce6a015110ffc44b0809640e7a"
 metafile = true
 
 [[files]]
@@ -216,8 +246,18 @@ hash = "7effe74f556c093a4d7e36e8d1f0ae6ef115cfeab54a1d870107ff69e8ddd678"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
 file = "mods/nicer-skies.pw.toml"
 hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "aef89792e4467234cb04a7fd41524414766a975cba684a82055dd11c4937f272"
 metafile = true
 
 [[files]]
@@ -228,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
+file = "mods/omnihopper.pw.toml"
+hash = "bf5fce9a1d5ffa923145c8e178ac6cef28a558340fea8a4832828b5ce4472bce"
 metafile = true
 
 [[files]]
@@ -258,6 +303,21 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "01451ed01eff741fc62ddcc19204c2c478ea9f2b80085092bd03eee700a0dcab"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-barrels.pw.toml"
+hash = "a302e6874a731ab5f1a0073b346505152c8b2a215ac8ae67a01e0a1631ec569a"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-chests.pw.toml"
+hash = "9c672efa939b3ee31e4290942c3042f985fd6473a6c5831e33ac7aa91cd0635b"
+metafile = true
+
+[[files]]
+file = "mods/reinforced-shulker-boxes.pw.toml"
+hash = "2d8a93af767bb965505d115af079b716fff82e67f5672f91dad22efd6df885e2"
 metafile = true
 
 [[files]]
