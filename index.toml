@@ -101,6 +101,11 @@ hash = "a36c65979c1ad3234d90a43ddd20f534b9c6d72a33f59b5a346dbe54435b8bc6"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "187b55741505da0c523e0c705b69827998e661dfa2d03be674c9587fccd3e824"
+metafile = true
+
+[[files]]
 file = "mods/distant-friends.pw.toml"
 hash = "f0dd64f71e05aac244d90ef4ea631f5312145f17c567b30f447d9e9b6847368e"
 metafile = true
@@ -183,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "ccce4670dcbdf1e9c85c62723b973353ec6c0ba70617c283fa81b1addf4261c9"
 metafile = true
 
 [[files]]
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-fabric.pw.toml"
 hash = "580b8db01c91a48bef9404bc4e21637f113fd7a706b88ff31be1d0eb7e1d97fa"
+metafile = true
+
+[[files]]
+file = "mods/tis3d.pw.toml"
+hash = "baad035048a6e9ae899d99b3720d386970866b1f65d98f1c52ae6fad36c0e43b"
 metafile = true
 
 [[files]]
