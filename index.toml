@@ -96,6 +96,11 @@ hash = "66c9b03555c01d799eff36972902ed04f0e8c6a53b5b8c08fe20cb67dce02def"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight-fabric.pw.toml"
+hash = "241b3fbc302d617ddb95fd47ac8e609b458a5472753c5ac49bcab306f4ac864a"
+metafile = true
+
+[[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "44c45b4769e2a419cb455b02fdb29fb763c09ec4cde3e4142fc0ab460c39fd35"
 metafile = true
