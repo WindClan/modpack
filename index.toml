@@ -146,8 +146,23 @@ hash = "f0dd64f71e05aac244d90ef4ea631f5312145f17c567b30f447d9e9b6847368e"
 metafile = true
 
 [[files]]
+file = "mods/enderchests.pw.toml"
+hash = "3c20ab637590cb3b34132ab095d260cce7672938a6e298d541ec490292fd442d"
+metafile = true
+
+[[files]]
+file = "mods/endertanks.pw.toml"
+hash = "4f24557ea2bff0c6eb83d97b0a743908e10746398a38e4eaf68cd5b85cc4bae8"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-workbenches.pw.toml"
 hash = "6a9263880513559e496de38c064750df93eb5a9c03f60c2bdc8dcca5d680e1c8"
+metafile = true
+
+[[files]]
+file = "mods/epic-knights-shields-armor-and-weapons.pw.toml"
+hash = "5c0ff625f7b1da4274e28dbdddd8a01d56a1176478058dd2b74376517b59012f"
 metafile = true
 
 [[files]]
@@ -261,6 +276,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/large-fluid-tank.pw.toml"
+hash = "9e3e1abeeebf9f1ff3c4d6df41d95368878900a3645dbc1cfa799d9ed5c096db"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -268,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "ccce4670dcbdf1e9c85c62723b973353ec6c0ba70617c283fa81b1addf4261c9"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "b0de66268b2b2bcc261ea99f05829759769f385701d2a944fe71de51bc98c0dc"
 metafile = true
 
 [[files]]
@@ -326,6 +351,11 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
+file = "mods/pipeplus.pw.toml"
+hash = "74bd159bec6354b5c98ee65373976d8a482d2b99cfc95c920b5abae433576988"
+metafile = true
+
+[[files]]
 file = "mods/powah.pw.toml"
 hash = "8df6f4418a1baf4bbf362668d8302683976ff126223b9fdf7f952490aebd072c"
 metafile = true
@@ -371,8 +401,23 @@ hash = "fb9f200b268cc3316d002c9ce77b56cbc6117d78776a774a0e6557053c861e6c"
 metafile = true
 
 [[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "e2f5d3ecaf3e192ef9af84a5d1caa8713965584596d98e5762e573d2d022422c"
+metafile = true
+
+[[files]]
 file = "mods/seasonhud-fabric.pw.toml"
 hash = "00cf4972c118db975733bceb2ad09e5921840337005b5f708bf5d27451b6bffa"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "dcb97552f92c7b5c6fb6a8f403617bf30336829b482627fa2f3abeaf8bfb86e6"
+metafile = true
+
+[[files]]
+file = "mods/simple-pipes.pw.toml"
+hash = "982469e3629a7fc474a2b8c555b96879e8f5ea8a43d69b61c35b0d5e045ee11d"
 metafile = true
 
 [[files]]
